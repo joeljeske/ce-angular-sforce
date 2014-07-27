@@ -1,0 +1,27 @@
+{
+  "name": "ce-angular-sforce",
+  "version": "0.0.0",
+  "homepage": "https://github.com/joeljeske/ce-angular-sforce",
+  "authors": [
+    "Joel Jeske <joeljeske14@gmail.com>"
+  ],
+  "description": "Camp Eagle's Angular interface to SalesForce",
+  "main": "src/angular-sforce.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "angular",
+    "salesforce",
+    "visualforce"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
